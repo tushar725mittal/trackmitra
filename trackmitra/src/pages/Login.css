@@ -1,0 +1,37 @@
+.login-container {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+}
+
+.branding {
+    font-size: 2em;
+    text-align: center;
+    margin-bottom: 2em;
+}
+
+.login-form label {
+    display: block;
+    margin-bottom: 1em;
+}
+
+.login-form input,
+.login-form select {
+    width: 100%;
+    padding: 5px;
+}
+
+.login-form button {
+    width: 100%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    margin-top: 1em;
+    cursor: pointer;
+}
+
+.login-form button:hover {
+    background-color: #45a049;
+}
